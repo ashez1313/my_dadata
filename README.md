@@ -4,12 +4,15 @@
 
 Устанавливаем как приложение в самом битриксе. Далее добавляем пользовательское поле в приложении:
 
-![image](https://github.com/ashez1313/mydadata/assets/23612649/1a957144-998b-4b77-badb-f6c5ec4368a0)
+![изображение](https://github.com/ashez1313/my_dadata/assets/23612649/b1f9ae30-1995-41d9-a607-617393d103bd)
+
 
 Добавляем поле типа "mydadata" в сделки
 
-![image](https://github.com/ashez1313/mydadata/assets/23612649/4164c170-b171-4f66-9ac5-d4c92966f5aa)
+![изображение](https://github.com/ashez1313/my_dadata/assets/23612649/507eaede-983f-4655-8e4e-7dc4cdb5fbaa)
 
-Работает. Значение поля обновляется после редактирования
 
-![image](https://github.com/ashez1313/mydadata/assets/23612649/1166da2d-9f81-42cd-8c62-ea1a90f0dc87)
+Работает. Значение поля обновляется после его редактирования
+
+![изображение](https://github.com/ashez1313/my_dadata/assets/23612649/beb9fdbf-0938-478a-a5d9-467a58136b41)
+
